@@ -1,0 +1,17 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "A react js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Mark OKeeffe",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^3.8.0",
+    "webpack-dev-server": "^2.9.2"
+  }
+}
